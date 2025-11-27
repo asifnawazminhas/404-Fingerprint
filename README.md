@@ -59,7 +59,7 @@ chmod +x 404_fingerprint.py
 
 ## Install dependencies
 ```python
-pip install requests
+pip install -r requirements.txt
 ```
 
 ## 1. Basic fingerprinting
